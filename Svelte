@@ -1,0 +1,14 @@
+O que é Svelte?
+
+Svelte é uma ferramenta JavaScript utilizada para criar interfaces de sites e aplicações web por meio de componentes.
+
+Principais características:
+
+* Utiliza HTML, CSS e JavaScript.
+* Permite criar componentes reutilizáveis.
+* Compila os componentes para JavaScript otimizado.
+* Facilita a criação de interfaces interativas.
+
+Exemplo de uso: criar lojas virtuais, formulários, contadores e painéis de controle.
+
+Comparação: Svelte, React e Vue.js são opções para desenvolver interfaces web, mas possuem diferenças na sintaxe e no funcionamento.
