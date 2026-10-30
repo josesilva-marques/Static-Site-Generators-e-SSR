@@ -1,0 +1,13 @@
+Geradores de Sites Estáticos (SSG) e SSR Universal
+
+SSG (Static Site Generation) é uma técnica que gera as páginas de um site antecipadamente, deixando o conteúdo pronto para ser acessado.
+
+SSR (Server-Side Rendering) é uma técnica que gera o HTML no servidor quando o usuário solicita uma página.
+
+Universal significa que a aplicação pode executar tanto no servidor quanto no navegador.
+
+Diferença: SSG gera páginas antecipadamente; SSR gera páginas durante a solicitação do usuário.
+
+Exemplos: Next.js, Nuxt.js e Angular.
+
+Fonte: Inteligência Artificial - Chatgpt
